@@ -1,0 +1,20 @@
+-Versao 0.004 vem com métodos recursivos, pesquisa binaria e algoritmos de ordenacao
+
+-A partir da Versao 0.003 ao trocar o nome do produto e necessario sair e entrar novamente
+para que seja concretizada a mudanca
+
+-A partir da Versao 0.003 ja e possivel modificar o nome do produto(ainda e impossivel 
+modificar quaisquer outro dado por enquanto)
+
+-A partir da Versão 0.003 ja e nao ocorre mais o erro de troca do tipo do produto na janela
+de adicionar novos produtos
+
+-Ainda é impossivel editar totalmente algum produto
+
+-Ao adicionar um produto, embora ele entre automaticamente na tabela, nao e possivel
+fazer a pesquisa na barra de pesquisa. Para pesquisa-lo e necessario fechar o programa 
+e abrir novamente
+
+-Ao entrar no sistema, toda tabela vai ter uma linha de celulas em branco no rodape
+
+-Dependendo do seu Sistema Operacional os caracteres especiais podem nao estar visiveis
